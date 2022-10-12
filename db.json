@@ -1,0 +1,19 @@
+{
+    "Exercises": 
+    [
+        {
+            "id": 0,
+            "Name": "FrappleBurger",
+            "restaurant": "Frapple King",
+            "Description": "Delicious burger from Frapple Queen",
+            "Ingrediants": ["Beef", "Lettuce"]
+        },
+        {
+            "id": 1,
+            "Name": "FrappleBurger",
+            "restaurant": "Frapple King",
+            "Description": "Delicious burger from Frapple Queen",
+            "Ingrediants": ["Beef", "Lettuce"]
+        }
+    ]
+}
