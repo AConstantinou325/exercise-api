@@ -1,19 +1,92 @@
 {
     "Exercises": 
     [
-        {
-            "id": 0,
-            "Name": "FrappleBurger",
-            "restaurant": "Frapple King",
-            "Description": "Delicious burger from Frapple Queen",
-            "Ingrediants": ["Beef", "Lettuce"]
+        {"Arms": 
+        [
+            {
+                "id": 0,
+                "Name": "Hammer Curl",
+                "Instructions": "Hold a dumbell in each hand with palms facing your sides and arms extended straight down. Keeping your upper arms against your sides, curl both weights at the same time, minimizing momentum used during the curl."
+            },
+            {
+                "id": 1,
+                "Name": "Dip",
+                "Instructions": "Use dip bars, if available, or place your palms on a bench, chair, or on the floor as you extend your legs in front of you.Lower your body until your upper arms are parallel to the floor, but no lower. Extend your elbows to come up."
+            },
+            {
+                "id": 2,
+                "Name": "Close-grip Curl",
+                "Instructions": "Curl with your hands inside shoulder width, in the middle of the bar. "
+            },
+            {
+                "id": 3,
+                "Name": "Chinup",
+                "Instructions": "Grab the bar at (or slightly inside) shoulder width, with a supinated grip.While keeping your core tight, pull yourself up until your chin is over the bar.Try not to use momentum to get your chin over the bar. "
+            },
+            {
+                "id": 4,
+                "Name": "Diamond Pushup",
+                "Instructions": "Get into a pushup position but place your hands close together so your thumbs and index fingers touch. Keeping your body in a straight line with abs braced, lower your torso until your chest is just above the floor, then press back up."
+            }
+        ]
         },
-        {
-            "id": 1,
-            "Name": "FrappleBurger",
-            "restaurant": "Frapple King",
-            "Description": "Delicious burger from Frapple Queen",
-            "Ingrediants": ["Beef", "Lettuce"]
+        {"Legs": 
+        [
+            {
+                "id": 5,
+                "Name": "Single-leg Romanian Deadlift",
+                "Instructions": "Hold a dumbbell in one hand and stand on the opposite leg. Bend your hips back and lower your torso until you feel your lower back is about to lose its arch. Squeeze your glutes and extend your hips to come up."
+            },
+            {
+                "id": 6,
+                "Name": "Bodyweight Calf Raise",
+                "Instructions": "Stand with your toes on the block and hold onto something sturdy for support. Raise your heels to come up on the balls of your feet, and then lower your heels until you feel a stretch in your calves."
+            },
+            {
+                "id": 7,
+                "Name": "Walking Lunge",
+                "Instructions": "Stand with your feet hip width, holding a dumbbell in each hand. Step forward with one leg and lower your body until your rear knee nearly touches the floor and your front thigh is parallel to the floor. Step forward with your rear leg to perform the next rep."
+            },
+            {
+                "id": 8,
+                "Name": "Reverse Lunge",
+                "Instructions": "Stand with the dumbbells still in your hands and step back with your right foot.Lower your body until your front thigh is parallel to the floor and your rear knee nearly touches the floor.\nKeep your torso upright.\nStep forward to return to the starting position.\nComplete all reps on one leg, then switch legs. That’s one set."
+            },
+            {
+                "id": 9,
+                "Name": "Dumbbell Squat",
+                "Instructions": "Hold the weights at shoulder level and stand with feet shoulder-width apart and toes turned slightly out. Squat down as low as you can without losing the arch in your lower back."
+            }
+        ]
+        },
+        {"Chest": 
+        [
+            {
+                "id": 10,
+                "Name": "Barbell Bench Press",
+                "Instructions": "Grasp the bar just outside shoulder-width and arch your back so there’s space between your lower back and the bench.Pull the bar out of the rack and lower it to your sternum, tucking your elbows about 45° to your sides.When the bar touches your body, drive your feet hard into the floor and press the bar back up."
+            },
+            {
+                "id": 11,
+                "Name": "Dumbbell Bench Press",
+                "Instructions": "Lie back on a flat bench with a dumbbell in each hand.Hold the weights at shoulder-levelThen press the weights straight up."
+            },
+            {
+                "id": 12,
+                "Name": "Alternating Dumbbell Bench Press",
+                "Instructions": "Lying faceup on a bench, holding dumbbells at the outside of your shoulders and with palms facing your thighs, lift both dumbbells over your chest. Keeping one arm straight, lower the other dumbbell, touch the outside of your shoulder, and push it back up. At the top of the movement, push farther with both hands, as if trying to punch the ceiling."
+            },
+            {
+                "id": 13,
+                "Name": "Hips-Off, Single-Arm Bench Press",
+                "Instructions": "Lie back on a flat bench so the right half of your torso is off bench, a heavy (40- to 50-pound) dumbbell in right hand. Brace core and press dumbbell over right shoulder. Do all reps on right side, then switch sides."
+            },
+            {
+                "id": 14,
+                "Name": "Cable Crossover",
+                "Instructions": "Stand between two facing cable stations with both pulleys set midway between the top and bottom of the station. Attach a D-handle to each pulley and hold one in each hand. Keep your elbows slightly bent, and step forward so there’s tension on the cables. Flex your pecs as you bring your hands together out in front of your chest. Alternate stretching and flexing after each set."
+            }
+        ]
         }
     ]
 }
