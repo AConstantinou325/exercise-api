@@ -1,0 +1,15 @@
+body {
+    background-image: url('./background.jpeg');
+    color : darkblue;
+    text-align: center;
+    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: cursive, sans-serif;
+    font-size: 3vw;
+    background-attachment: fixed;
+}
+
+h1 {
+    margin-top: 50vh;
+}
