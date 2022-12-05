@@ -1,5 +1,5 @@
 body {
-    background-image: url('./Background4.jpg');
+    background: rgba(90,194,222,255);
     text-align: center;
     background-size: contain;
     background-size: cover;
@@ -11,21 +11,31 @@ body {
 
 h1 {
     color: darkblue;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration: none; 
 }
 
 h2 {
     color: darkblue;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration: none; 
+}
+h3 {
+    color: darkblue;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration: none; 
 }
 
 p {
-    color: Indigo;
-    background-color: lightblue;
+    color: black;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration: none; 
 }
 
 a {
     color: blue;
-    background-color: lightblue;
-    text-decoration: none;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration: none; 
 }
 .button {
   border-radius: 25px;
